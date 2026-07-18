@@ -133,13 +133,12 @@ MIT License - see LICENSE file for details
 📧 Contact & Support
 Project Lead: Faraz Mirza
 
-Email: farazmirza57079@gmail.com
+Email: dilipsurawat960@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/faraz-mirza-97439b280/
+LinkedIn: https://linkedin.com/in/dilip-surawat-37299b340
 
-Project Links:
 
-GitHub: https://github.com/FarazMirzacool/Ai_Powered_Learning_Assistant
+
 
 
 🙏 Acknowledgments
